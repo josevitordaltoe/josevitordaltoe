@@ -34,7 +34,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/jos%C3%A9-vitor-dal-to%C3%A9-junior-b39739b3"><img src="https://img.shields.io/badge/-Jos%C3%A9%20Vitor%20Dal%20to%C3%A9%20Junior-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:josevitordaltoe@gmail.com"><img src="https://img.shields.io/badge/-josevitordaltoe@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
